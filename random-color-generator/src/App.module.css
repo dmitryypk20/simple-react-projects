@@ -1,0 +1,9 @@
+.buttons {
+  display: flex;
+  gap: 5px;
+  margin-bottom: 100px;
+}
+
+.color__type {
+  margin-bottom: 50px;
+}
